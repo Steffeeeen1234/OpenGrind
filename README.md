@@ -61,7 +61,6 @@ If you choose to alter the hardware configuration (IO pins) or you are not satis
 
 This firmware operates on the principle of a state machine with 4 main states.
 
-
 ![](assets/states.png#gh-light-mode-only)
 ![](assets/turnoffdarkmode.png#gh-dark-mode-only)
 
